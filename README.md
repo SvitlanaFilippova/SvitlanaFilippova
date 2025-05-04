@@ -15,13 +15,34 @@
 
 ---
 
-## 🛠️ Технологии и стек
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Retrofit2](https://img.shields.io/badge/Retrofit2-%23430098?style=for-the-badge&logo=retrofit&logoColor=white)
+![Room](https://img.shields.io/badge/Room-%230175C2?style=for-the-badge&logo=android-room&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-%23FF6D00?style=for-the-badge)
+![Jetpack Navigation](https://img.shields.io/badge/Jetpack_Navigation-%230175C2?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%230175C2?style=for-the-badge&logo=android&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-%239B59B6?style=for-the-badge)
+![MVI](https://img.shields.io/badge/MVI-%234A148C?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-%2300C853?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Coroutines-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Языки:** Kotlin, Java  
-**Архитектуры:** MVVM, MVI, Clean Architecture  
-**Библиотеки:** Retrofit2, Room, Jetpack Compose, Coil, Glide, Koin, Hilt  
-**Инструменты:** Android Studio, Git, Postman, MediaPlayer  
-**Дополнительно:** Coroutines, SharedPreferences, LiveData, Navigation Component, ViewPager2, Pager3
+
+---
+### &#129299; Статистика:
+
+<!-- [![Codewarrior Profile Badges](https://www.codewars.com/users/timuritodev/badges/large)](https://www.codewars.com/users/timuritodev) -->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=timuritodev&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=timuritodev&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=timuritodev&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timuritodev&layout=compact" />
+</a>
+</div>
 
 ---
 

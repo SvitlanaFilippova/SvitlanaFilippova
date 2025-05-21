@@ -1,6 +1,6 @@
 # 👩‍💻 Светлана Филиппова | Android Developer
 
-📍 Черноголовка, МО, Россия  
+📍 Москва, Россия  
 📫 [filippova.svetlana.769@gmail.com](mailto:filippova.svetlana.769@gmail.com)  
 🌐 [Telegram](https://t.me/SvitlanaFilippova)  
 

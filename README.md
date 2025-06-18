@@ -20,6 +20,7 @@ Android-разработчик с бэкграундом в CX-аналитик�
 ![Retrofit2](https://img.shields.io/badge/Retrofit2-%23430098?style=for-the-badge&logo=retrofit&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-%230175C2?style=for-the-badge&logo=android-room&logoColor=white)
 ![Koin](https://img.shields.io/badge/Koin-%23FF6D00?style=for-the-badge)
+![Hilt](https://img.shields.io/badge/Hilt-%23FF6D00?style=for-the-badge)
 ![Jetpack Navigation](https://img.shields.io/badge/Jetpack_Navigation-%230175C2?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%230175C2?style=for-the-badge&logo=android&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-%239B59B6?style=for-the-badge)

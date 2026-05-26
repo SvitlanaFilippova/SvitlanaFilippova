@@ -1,18 +1,19 @@
-# 👩‍💻 Светлана Филиппова | Mobile / Kotlin Multiplatform Developer
+# 👩‍💻 Svetlana Filippova | Mobile / Kotlin Multiplatform Developer
 
 📫 [filippova.svetlana.769@gmail.com](mailto:filippova.svetlana.769@gmail.com)  
 🌐 [Telegram](https://t.me/SvitlanaFilippova)
 
 ---
 
-## 🚀 Обо мне
+## 🚀 About Me
 
-Mobile / Kotlin Multiplatform developer с бэкграундом в CX-аналитике и интернет-маркетинге.
+Mobile / Kotlin Multiplatform developer with a background in CX analytics and digital marketing.
 
-Разрабатываю Android и KMP-приложения на Kotlin с использованием Compose Multiplatform, Clean Architecture и MVI.  
-Проектирую сложную доменную логику, offline-first сценарии, синхронизацию данных и масштабируемую feature-модульную архитектуру.
+I build Android and KMP applications using Kotlin, Compose Multiplatform, Clean Architecture and MVI.
 
-Фокусируюсь на UX, чистом коде и создании продуктов, которыми удобно пользоваться в реальной жизни.
+Focused on complex domain logic, offline-first scenarios, data synchronization and scalable feature-based architecture.
+
+I care about UX, clean code and building products that solve real everyday problems.
 
 ---
 
@@ -50,7 +51,7 @@ Mobile / Kotlin Multiplatform developer с бэкграундом в CX-анал
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### Local Storage & DI
+### Local Storage & Dependency Injection
 
 <p>
   <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -77,11 +78,11 @@ Mobile / Kotlin Multiplatform developer с бэкграундом в CX-анал
 
 ### SmartMeal — Kotlin Multiplatform meal planning app
 
-Мультиплатформенное приложение для планирования питания, ведения дневника и организации семейного рациона.
+Multiplatform application for meal planning, nutrition tracking and family food management.
 
-SmartMeal объединяет рецепты, цели питания, автопланирование, покупки и повседневные привычки в одной системе с поддержкой offline-first сценариев и синхронизации данных.
+SmartMeal combines recipes, nutrition goals, auto-planning, shopping workflows and everyday eating habits in a single ecosystem with offline-first support and data synchronization.
 
-**Стек:** Kotlin Multiplatform, Compose Multiplatform, MVI, Decompose, Ktor, Supabase, Room, Koin
+**Stack:** Kotlin Multiplatform, Compose Multiplatform, MVI, Decompose, Ktor, Supabase, Room, Koin
 
 🔗 https://github.com/SvitlanaFilippova/SmartMeal-public
 
@@ -89,11 +90,11 @@ SmartMeal объединяет рецепты, цели питания, авто
 
 ### Mandarin — Kotlin Multiplatform food delivery app
 
-Мультиплатформенное приложение для заказа еды с поддержкой кастомизации блюд, интерактивной карты доставки, онлайн-оплаты и отслеживания заказов в реальном времени.
+Multiplatform food delivery application with customizable dishes, interactive delivery maps, online payments and real-time order tracking.
 
-Проект начинался как полностью нативное Android-приложение и позже был полностью мигрирован на Kotlin + Compose Multiplatform с общей UI- и бизнес-логикой для Android и iOS.
+The project originally started as a fully native Android application and was later completely migrated to Kotlin + Compose Multiplatform with shared UI and business logic for Android and iOS.
 
-**Стек:** Kotlin Multiplatform, Compose Multiplatform, MVI, Ktor, SQLDelight, Koin, Yandex MapKit, YooKassa
+**Stack:** Kotlin Multiplatform, Compose Multiplatform, MVI, Ktor, SQLDelight, Koin, Yandex MapKit, YooKassa
 
 🔗 https://github.com/SvitlanaFilippova/Mandarin
 
